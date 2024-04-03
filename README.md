@@ -34,5 +34,20 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/Rishab877/whatsapp-chat-analyzer.git
+```
 
-Install the required dependencies:
+### Install the required dependencies:
+ ```bash
+pip install -r requirements.txt
+```
+
+### Run the Streamlit app:
+ ```bash
+streamlit run app.py
+```
+
+### Access the application in your web browser:
+Open your web browser and go to [http://localhost:8501] (URL) to access the application.
+
+## Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request or open an issue.
