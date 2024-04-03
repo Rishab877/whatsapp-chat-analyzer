@@ -30,10 +30,15 @@ Download or export the analysis results if needed.
 # Technologies Used
 
 Python
+
 Streamlit
+
 Pandas
+
 Matplotlib
+
 Plotly
+
 Development
 
 To run this project locally, follow these steps:
@@ -41,15 +46,15 @@ To run this project locally, follow these steps:
 # Clone this repository:
 git clone https://github.com/Rishab877/whatsapp-chat-analyzer.git
 
-# Navigate to the project directory:
+Navigate to the project directory:
 
 cd whatsapp-chat-analyzer
 
-# Install the required dependencies:
+Install the required dependencies:
 
 pip install -r requirements.txt
 
-# Run the Streamlit app:
+Run the Streamlit app:
 
 streamlit run app.py
 
