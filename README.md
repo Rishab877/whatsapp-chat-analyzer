@@ -30,15 +30,10 @@ Download or export the analysis results if needed.
 # Technologies Used
 
 Python
-
 Streamlit
-
 Pandas
-
 Matplotlib
-
 Plotly
-
 Development
 
 To run this project locally, follow these steps:
