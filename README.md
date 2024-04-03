@@ -41,9 +41,9 @@ Plotly
 
 Development
 
+# Clone this repository:
 To run this project locally, follow these steps:
 
-# Clone this repository:
 git clone https://github.com/Rishab877/whatsapp-chat-analyzer.git
 
 Navigate to the project directory:
