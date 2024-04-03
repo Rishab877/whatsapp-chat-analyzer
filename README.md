@@ -34,3 +34,5 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/Rishab877/whatsapp-chat-analyzer.git
+
+Install the required dependencies:
